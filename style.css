@@ -312,6 +312,9 @@
   margin-top: -270px;
   margin-left: 540px;
 }
+.mini2img > img {
+  position: absolute;
+}
 .playtextleft {
   text-align: left;
 }
