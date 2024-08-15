@@ -271,6 +271,12 @@
 }
 .playimg {
   position: relative;
+  height: auto;
+  width: auto;
+}
+.playimg img {
+  height: auto;
+  width: auto;
 }
 .miniimg {
   position: absolute;
@@ -289,6 +295,12 @@
 }
 .playimg {
   position: relative;
+  height: auto;
+  width: auto;
+}
+.playimg img {
+  height: auto;
+  width: auto;
 }
 .mini2img {
   position: absolute;
