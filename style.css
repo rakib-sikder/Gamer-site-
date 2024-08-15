@@ -275,6 +275,7 @@
   width: auto;
 }
 .playimg img {
+  position: relative;
   height: auto;
   width: auto;
 }
@@ -282,6 +283,9 @@
   position: absolute;
   margin-top: -270px;
   margin-left: -160px;
+}
+.miniimg > img {
+  position: absolute;
 }
 /* next div */
 .nextdiv {
@@ -299,6 +303,7 @@
   width: auto;
 }
 .playimg img {
+  position: relative;
   height: auto;
   width: auto;
 }
